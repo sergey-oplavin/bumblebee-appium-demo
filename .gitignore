@@ -1,0 +1,6 @@
+/target/
+/bumblebee.log
+/test-output
+/.classpath
+/.project
+/.settings/
