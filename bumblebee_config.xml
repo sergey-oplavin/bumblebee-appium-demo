@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<bumblebee>
+	<bumblebee_url>http://localhost:8888/bumblebee</bumblebee_url>
+	<alm_url>http://almserver:8080/qcbin</alm_url>
+	<alm_user>qcuser</alm_user>
+	<alm_encrypted_pass>fd4OMOXLJjkMR6e64RJh3Q==</alm_encrypted_pass>
+	<alm_domain>DEFAULT</alm_domain>
+	<alm_project>demo</alm_project>
+</bumblebee>
